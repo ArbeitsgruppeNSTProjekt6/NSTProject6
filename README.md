@@ -3,7 +3,7 @@ NST-Projekt 6
 Gespeichert werden Kundendaten (Text) auf die Nutzer mit unterschiedlichen 
 Berechtigungen zugreifen können. Die Zugriffsberechtigungen sind je nach Nutzer 
 unterschiedlich und sollen geeignet abgebildet werden. Zu untersuchen sind 
-geeignete Sicherheitsverfahren für den Zugriffsschutz. 
+geeignete Sicherheitsverfahren für den Zugriffsschutz. <br>
 (Stichwort: Aspekt, aspektorientierte Programmierung)
 
 
