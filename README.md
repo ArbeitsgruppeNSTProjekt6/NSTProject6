@@ -6,6 +6,12 @@ unterschiedlich und sollen geeignet abgebildet werden. Zu untersuchen sind
 geeignete Sicherheitsverfahren für den Zugriffsschutz. <br>
 (Stichwort: Aspekt, aspektorientierte Programmierung)
 
+English translation:
+Client data (text) needs to be saved and accessed by different users with different
+ authorisation levels. The access permission for each user role has to be projected
+in a fitting way. We are asked to investigate the right safety procedures and access 
+protections.
+
 
 TODO:<br>
 <ol>
