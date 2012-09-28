@@ -7,7 +7,14 @@ geeignete Sicherheitsverfahren für den Zugriffsschutz.
 (Stichwort: Aspekt, aspektorientierte Programmierung)
 
 
-TODO:
+TODO:<br>
+<ul>
+  <li>UML-Anforderungsmodell</li>
+  <li>Darstellung der Implementierungsarchitektur</li>
+  <li>Realisierung der Applikation in einer .NET-Umgebung (Visual Studio)	<br>
+    	(Alternative technische Lösungen sind nach Rücksprache mit dem 
+    	Auftraggeber zulässig.) <br></li>
+</ul>
     1. 	UML-Anforderungsmodell <br>
     2. 	Darstellung der Implementierungsarchitektur <br>
     3. 	Realisierung der Applikation in einer .NET-Umgebung (Visual Studio)	<br>
