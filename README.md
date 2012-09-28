@@ -1,4 +1,4 @@
-NSTProjekt6
+NST-Projekt 6
 ========
 Gespeichert werden Kundendaten (Text) auf die Nutzer mit unterschiedlichen 
 Berechtigungen zugreifen können. Die Zugriffsberechtigungen sind je nach Nutzer 
