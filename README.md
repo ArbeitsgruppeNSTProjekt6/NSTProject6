@@ -8,10 +8,10 @@ geeignete Sicherheitsverfahren für den Zugriffsschutz.
 
 
 TODO:
-    1. 	UML-Anforderungsmodell
-    2. 	Darstellung der Implementierungsarchitektur
-    3. 	Realisierung der Applikation in einer .NET-Umgebung (Visual Studio)	
+    1. 	UML-Anforderungsmodell </br>
+    2. 	Darstellung der Implementierungsarchitektur </br>
+    3. 	Realisierung der Applikation in einer .NET-Umgebung (Visual Studio)	</br>
     	(Alternative technische Lösungen sind nach Rücksprache mit dem 
-    	Auftraggeber zulässig.)
-    4.	Dokumentation der Systementwicklung
-    5.	Testvorbereitung, Test und Implementierung auf einem Rechner der FH
+    	Auftraggeber zulässig.) </br>
+    4.	Dokumentation der Systementwicklung </br>
+    5.	Testvorbereitung, Test und Implementierung auf einem Rechner der FH </br>
