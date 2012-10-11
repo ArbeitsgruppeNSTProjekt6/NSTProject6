@@ -1,0 +1,13 @@
+http://www.eclipse.org/aspectj/doc/released/progguide/index.html
+
+http://www.itwissen.info/definition/lexikon/Aspektorientierte-Programmierung-aspect-oriented-programming-AOP.html
+
+http://openbook.galileocomputing.de/oo/oo_07_aspekteinoo_001.htm
+
+http://www.little-idiot.de/his/aspekt.htm
+
+http://www.fh-wedel.de/~si/seminare/ws06/Ausarbeitung/12.Spring/spring4.htm
+
+http://www.mycsharp.de/wbb2/thread.php?threadid=32405
+
+http://www.codeproject.com/Articles/8414/The-simplest-AOP-scenario-in-C
